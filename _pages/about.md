@@ -98,6 +98,6 @@ Full-reference motion quality assessment based on efficient monocular parametric
 - Journal: Coming soon.
 - Conference: Reviewer of CHI 2026 Poster.
 
-<script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=450&t=n&d=_9QIDIosnwnCBpxq2-FETJX9CUm9QhCe_d1rYTS8TuU'></script>
+<script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=450&t=n&d=R1g4BjbX72oy9-WctEXox1m3fth_Ede2b1DXlWYhm_o'></script>
 
 <footer class="footer" style="text-align: center; margin-top: 2em; color: #7a8288;">© 2026 Yiwei Yuan. All rights reserved.</footer>
