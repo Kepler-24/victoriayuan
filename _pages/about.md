@@ -81,7 +81,7 @@ Full-reference motion quality assessment based on efficient monocular parametric
 
 # 🎖 Honors and Awards
 <span class='anchor' id='honors-and-awards'></span>
-- Excellent Graduate Academic Scholarship (2024)
+- Excellent Graduate Academic Scholarship (2024-2025)
 - Excellent Undergraduate Scholarship (2020-2024)
 
 # 📖 Educations
