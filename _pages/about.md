@@ -91,3 +91,11 @@ Full-reference motion quality assessment based on efficient monocular parametric
 <span class='anchor' id='internships'></span>
 - *2023.07 - 2023.08*, Software Development Intern, Industrial and Commercial Bank of China (ICBC), China.
 
+# 💁 Academic Service
+<span class='anchor' id='academic-service'></span>
+- Journal: Coming soon.
+- Conference: Reviewer of CHI 2026 Poster.
+
+<div style="max-width: 450px; margin: 0 auto; font-size: 0;">
+  <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=_9QIDIosnwnCBpxq2-FETJX9CUm9QhCe_d1rYTS8TuU&cl=ffffff&w=a"></script>
+</div>
