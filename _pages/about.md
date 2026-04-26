@@ -96,6 +96,4 @@ Full-reference motion quality assessment based on efficient monocular parametric
 - Journal: Coming soon.
 - Conference: Reviewer of CHI 2026 Poster.
 
-<div style="max-width: 450px; margin: 0 auto; font-size: 0;">
-  <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=_9QIDIosnwnCBpxq2-FETJX9CUm9QhCe_d1rYTS8TuU&cl=ffffff&w=a"></script>
-</div>
+<script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=450&t=n&d=_9QIDIosnwnCBpxq2-FETJX9CUm9QhCe_d1rYTS8TuU'></script>
