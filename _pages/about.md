@@ -17,16 +17,14 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a master’s student in Computer Science at the School of Artificial Intelligence, Sun Yat-sen University (SYSU), where I currently rank first in my program. I received my B.Eng. in Artificial Intelligence from Sun Yat-sen University in 2024.
+I am a master’s student in Computer Science at the School of Artificial Intelligence, Sun Yat-sen University (SYSU), supervised by Zhenhui Peng. I received my B.Eng. in Artificial Intelligence from Sun Yat-sen University in 2024.
 My research interests lie in Human-Computer Interaction, Human-AI Collaboration, and intelligent systems for education and healthcare, with a focus on AI-driven interactive systems, image generation, and 3D human reconstruction.
 
-
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
-
-
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2026.11*: &nbsp;🎉🎉 One paper was accepted to CHI 2026 Poster as second author.
+- *2025.11*: &nbsp;🎉🎉 One paper was accepted to BMJ Open.
+- *2025.10*: &nbsp;🎉🎉 One paper was accepted to ICHEC 2025 as first author.
+- *2023.03*: &nbsp;🎉🎉 One paper was accepted to ICME 2025 (CCF-B) as co-first author.  
 
 # 📝 Publications 
 
