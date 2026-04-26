@@ -21,35 +21,54 @@ I am a master’s student in Computer Science at the School of Artificial Intell
 My research interests lie in Human-Computer Interaction, Human-AI Collaboration, and intelligent systems for education and healthcare, with a focus on AI-driven interactive systems, image generation, and 3D human reconstruction.
 
 # 🔥 News
+<span class='anchor' id='news'></span>
 - *2026.11*: &nbsp;🎉🎉 One paper was accepted to **CHI 2026** Poster as second author.
 - *2025.11*: &nbsp;🎉🎉 One paper was accepted to **BMJ Open**.
 - *2025.10*: &nbsp;🎉🎉 One paper was accepted to **ICHEC 2025** as first author.
 - *2023.03*: &nbsp;🎉🎉 One paper was accepted to **ICME 2024** (CCF-B) as co-first author.  
 
-# 📝 Publications 
-\* Equal contribution, † Corresponding author
+# 📝 Selected Publications 
+<span class='anchor' id='publications'></span>
+\* Equal contribution
+† Corresponding author
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICHEC 2025</div><img src='images/ichec.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Exploring Community-Powered Conversational Agent for Health Knowledge Acquisition: A Case Study in Colorectal Cancer](https://arxiv.org/abs/2512.09511)
+
+**Yiwei Yuan**, Zhiqing Wang, Xiucheng Zhang, Yichao Luo, Shuya Lin, Yang Bai, Zhenhui Peng†  
+
+</div>
+</div>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICME 2024</div><img src='images/icme.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Full-reference motion quality assessment based on efficient monocular parametric 3d human body reconstruction](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10687714)
 
-Yuxin Huang*, **Yiwei Yuan***, Xiangyu Zeng*, Ling Xie, Yiyu Fu, Guanghui Yue, Baoquan Zhao†  
+Yuxin Huang\*, **Yiwei Yuan**\*, Xiangyu Zeng\*, Ling Xie, Yiyu Fu, Guanghui Yue, Baoquan Zhao†  
 
 </div>
 </div>
 
+# Full Publications
+<span class='anchor' id='full-publications'></span>
+- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **UIST 2026**
 
 # Under Review
+<span class='anchor' id='under-review'></span>
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **UIST 2026**
 
 # 🎖 Honors and Awards
+<span class='anchor' id='honors-and-awards'></span>
 - Excellent Graduate Academic Scholarship (2024)
 - Excellent Undergraduate Scholarship (2020-2024)
 
 # 📖 Educations
+<span class='anchor' id='educations'></span>
 - *2024.06 - now*, Postgraduate, School of Artificial Intelligence, Sun Yat-sen University, Guangdong.
 - *2020.09 - 2024.06*, Undergraduate, School of Artificial Intelligence, Sun Yat-sen University, Guangdong.
 
 # 💻 Internships
+<span class='anchor' id='internships'></span>
 - *2023.07 - 2023.08*, Software Development Intern, Industrial and Commercial Bank of China (ICBC), China.
 
